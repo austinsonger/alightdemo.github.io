@@ -1,0 +1,13 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_3" height="447.999992" width="677.000005" y="-20.666667" x="-37.5" stroke-width="1.5" fill="#ffff00"/>
+  <text stroke="#000" transform="matrix(3.6573942479833765,0,0,6.903136719539306,-519.0052290765651,-348.432417746794) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="76.333333" x="174.001794" stroke-opacity="null" stroke-width="0" fill="#000000">GLOBAL</text>
+  <text stroke="#000" transform="matrix(2.868957042694092,0,0,6.60118478257516,-212.12662434577942,-1300.7373498578459) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="246.878869" x="116.107145" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">SECURITY</text>
+ </g>
+</svg>
